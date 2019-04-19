@@ -1,14 +1,13 @@
 {
-  "main.css": "/sentiment/static/css/main.f7a75c8c.chunk.css",
-  "main.js": "/sentiment/static/js/main.f2b32a0a.chunk.js",
-  "main.js.map": "/sentiment/static/js/main.f2b32a0a.chunk.js.map",
+  "main.css": "/sentiment/static/css/main.a2033b35.chunk.css",
+  "main.js": "/sentiment/static/js/main.b0f04c47.chunk.js",
+  "main.js.map": "/sentiment/static/js/main.b0f04c47.chunk.js.map",
   "runtime~main.js": "/sentiment/static/js/runtime~main.31b2dd07.js",
   "runtime~main.js.map": "/sentiment/static/js/runtime~main.31b2dd07.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/sentiment/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/sentiment/static/js/2.6efc73d3.chunk.js.map",
+  "static/js/2.91518124.chunk.js": "/sentiment/static/js/2.91518124.chunk.js",
+  "static/js/2.91518124.chunk.js.map": "/sentiment/static/js/2.91518124.chunk.js.map",
   "index.html": "/sentiment/index.html",
-  "precache-manifest.a0dede8ec0d92b6b8fc25808f929d108.js": "/sentiment/precache-manifest.a0dede8ec0d92b6b8fc25808f929d108.js",
+  "precache-manifest.1f9b84586ff87aa8f5a2ff8edc8c766c.js": "/sentiment/precache-manifest.1f9b84586ff87aa8f5a2ff8edc8c766c.js",
   "service-worker.js": "/sentiment/service-worker.js",
-  "static/css/main.f7a75c8c.chunk.css.map": "/sentiment/static/css/main.f7a75c8c.chunk.css.map",
-  "static/media/logo.svg": "/sentiment/static/media/logo.5d5d9eef.svg"
+  "static/css/main.a2033b35.chunk.css.map": "/sentiment/static/css/main.a2033b35.chunk.css.map"
 }
