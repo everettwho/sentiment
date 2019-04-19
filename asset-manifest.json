@@ -1,14 +1,14 @@
 {
-  "main.css": "/everettwho.github.io/static/css/main.f7a75c8c.chunk.css",
-  "main.js": "/everettwho.github.io/static/js/main.f2b32a0a.chunk.js",
-  "main.js.map": "/everettwho.github.io/static/js/main.f2b32a0a.chunk.js.map",
-  "runtime~main.js": "/everettwho.github.io/static/js/runtime~main.d3ff8fe6.js",
-  "runtime~main.js.map": "/everettwho.github.io/static/js/runtime~main.d3ff8fe6.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/everettwho.github.io/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/everettwho.github.io/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/everettwho.github.io/index.html",
-  "precache-manifest.679394fc6a2bc62a6f5fe45ea6689f4b.js": "/everettwho.github.io/precache-manifest.679394fc6a2bc62a6f5fe45ea6689f4b.js",
-  "service-worker.js": "/everettwho.github.io/service-worker.js",
-  "static/css/main.f7a75c8c.chunk.css.map": "/everettwho.github.io/static/css/main.f7a75c8c.chunk.css.map",
-  "static/media/logo.svg": "/everettwho.github.io/static/media/logo.5d5d9eef.svg"
+  "main.css": "/sentiment-website/static/css/main.f7a75c8c.chunk.css",
+  "main.js": "/sentiment-website/static/js/main.f2b32a0a.chunk.js",
+  "main.js.map": "/sentiment-website/static/js/main.f2b32a0a.chunk.js.map",
+  "runtime~main.js": "/sentiment-website/static/js/runtime~main.350559ba.js",
+  "runtime~main.js.map": "/sentiment-website/static/js/runtime~main.350559ba.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/sentiment-website/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/sentiment-website/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/sentiment-website/index.html",
+  "precache-manifest.c76596fe8ebf8d12f165c2e5c4b881cb.js": "/sentiment-website/precache-manifest.c76596fe8ebf8d12f165c2e5c4b881cb.js",
+  "service-worker.js": "/sentiment-website/service-worker.js",
+  "static/css/main.f7a75c8c.chunk.css.map": "/sentiment-website/static/css/main.f7a75c8c.chunk.css.map",
+  "static/media/logo.svg": "/sentiment-website/static/media/logo.5d5d9eef.svg"
 }

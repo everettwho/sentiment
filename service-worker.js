@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/everettwho.github.io/precache-manifest.679394fc6a2bc62a6f5fe45ea6689f4b.js"
+  "/sentiment-website/precache-manifest.c76596fe8ebf8d12f165c2e5c4b881cb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/everettwho.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/sentiment-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
